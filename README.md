@@ -1,6 +1,6 @@
 # AROGO — Triage at the Edge.
 
-git add README.md> Bringing doctors, medicines, and health records to the last mile — one video call away.
+> Bringing doctors, medicines, and health records to the last mile — one video call away.
 
 A full-stack telehealth platform built to provide remote healthcare access to rural communities. Patients can consult doctors via live video, check medicine availability across pharmacies, manage digital health records, and get AI-powered symptom assessments.
 
