@@ -1,4 +1,4 @@
-# AROGO — Rural TeleHealth Access Platform
+# AROGO — Triage at the Edge.
 
 > Bringing doctors, medicines, and health records to the last mile — one video call away.
 
