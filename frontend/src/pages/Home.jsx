@@ -74,7 +74,7 @@ export default function Home() {
             </motion.h1>
             
             <motion.p variants={fadeIn} className="text-lg text-slate-600 dark:text-slate-300 mb-8 max-w-xl mx-auto lg:mx-0 text-balance leading-relaxed">
-              SwasthyaConnect bridges the gap between rural communities and premium healthcare. Get instant access to certified doctors, AI diagnostics, and digital prescriptions—even on low bandwidth networks.
+              Arogo bridges the gap between rural communities and premium healthcare. Get instant access to certified doctors, AI diagnostics, and digital prescriptions—even on low bandwidth networks.
             </motion.p>
             
             <motion.div variants={fadeIn} className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -242,7 +242,7 @@ export default function Home() {
       <section className="py-24 bg-white dark:bg-slate-950 relative">
         <div className="container mx-auto px-4 max-w-7xl">
           <div className="text-center mb-16 max-w-2xl mx-auto">
-            <h2 className="text-3xl lg:text-4xl font-extrabold text-slate-900 dark:text-white mb-4 tracking-tight">How SwasthyaConnect Works</h2>
+            <h2 className="text-3xl lg:text-4xl font-extrabold text-slate-900 dark:text-white mb-4 tracking-tight">How Arogo Works</h2>
             <p className="text-lg text-slate-600 dark:text-slate-300">A seamless, guided health experience tailored for both patients and healthcare providers.</p>
           </div>
 
@@ -304,7 +304,7 @@ export default function Home() {
             <div className="text-left text-slate-900 dark:text-white">
               <h2 className="text-3xl lg:text-4xl font-extrabold mb-6 tracking-tight text-slate-900 dark:text-white">Built for Patients & Healthcare Providers</h2>
               <p className="text-slate-600 dark:text-slate-300 text-lg mb-10 leading-relaxed max-w-lg">
-                Dedicated interfaces cater to unique workflows. Whether you're seeking care or providing it, SwasthyaConnect adapts to your needs seamlessly.
+                Dedicated interfaces cater to unique workflows. Whether you're seeking care or providing it, Arogo adapts to your needs seamlessly.
               </p>
 
               <div className="space-y-8">
@@ -345,7 +345,7 @@ export default function Home() {
             <Star className="fill-current w-6 h-6" /><Star className="fill-current w-6 h-6" /><Star className="fill-current w-6 h-6" /><Star className="fill-current w-6 h-6" /><Star className="fill-current w-6 h-6" />
           </div>
           <h3 className="text-2xl md:text-4xl font-extrabold text-slate-800 dark:text-slate-100 mb-10 leading-relaxed">
-            "SwasthyaConnect completely changed how we handle emergencies. A video consultation with a certified pediatrician saved us an overnight trip to the city hospital."
+            "Arogo completely changed how we handle emergencies. A video consultation with a certified pediatrician saved us an overnight trip to the city hospital."
           </h3>
           <div className="flex items-center justify-center gap-4">
             <div className="w-16 h-16 rounded-full bg-slate-100 dark:bg-slate-800 border-2 border-primary-100 dark:border-primary-800 overflow-hidden shadow-sm">
@@ -387,7 +387,7 @@ export default function Home() {
               <div className="w-10 h-10 bg-primary-600 rounded-xl flex items-center justify-center shadow-sm">
                 <HeartPulse className="text-white w-5 h-5" />
               </div>
-              <span className="text-xl font-bold text-slate-900 dark:text-white tracking-tight">SwasthyaConnect</span>
+              <span className="text-xl font-bold text-slate-900 dark:text-white tracking-tight">Arogo</span>
             </div>
             <div className="flex flex-wrap justify-center gap-6 text-sm font-medium">
               <a href="#" className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">Privacy Policy</a>
@@ -397,7 +397,7 @@ export default function Home() {
             </div>
           </div>
           <div className="text-center text-sm">
-            <p>© 2026 SwasthyaConnect Platform. All rights reserved.</p>
+            <p>© 2026 Arogo Platform. All rights reserved.</p>
           </div>
         </div>
       </footer>
