@@ -1,11 +1,8 @@
-# AROGO — Triage at the Edge.
+# SwasthyaConnect — Rural TeleHealth Access System
 
-> Bringing doctors, medicines, and health records to the last mile — one video call away.
+A full-stack telehealth platform built to bring remote healthcare access to rural communities. Patients can consult doctors via live video, check medicine availability, manage health records, and get AI-powered symptom assessments.
 
-A full-stack telehealth platform built to provide remote healthcare access to rural communities. Patients can consult doctors via live video, check medicine availability across pharmacies, manage digital health records, and get AI-powered symptom assessments.
-
-**Live demo:** _add your deployed Vercel URL here_
-**Repo:** [github.com/AdarshYadav9/Arogo](https://github.com/AdarshYadav9/Arogo)
+**Live demo:** [https://swasthya-connect-olive.vercel.app/home](https://swasthya-connect-olive.vercel.app/home)
 
 ---
 
